@@ -72,7 +72,7 @@ weighted_img: 입력 이미지와 원본 이미지를 합친다.
 초기에는 openCV c++로 차선 인식 코드를 작성했으나, jetson nano에서 c++의 버전이 맞지 않아 파이썬으로 변경하여 만들었다. 동영상 화질에 따라 차선 인식 범위가 달라지는 문제가 있는데 720p에 맞춰서 코드를 작성하였으나, 블랙박스의 화질이 달라지면 인식 범위가 변경되는 문제가 발생하였다. 이를 해결하기 위해 사다리꼴 범위를 다시 설정하여 양쪽 사이드를 인식할 수 있도록 테스트가 필요하다. 추가로, 범위 안의 잡음 제거와 차선 이탈 시 서버로 데이터를 전송하는 기능을 추가할 예정이다.<br>
 
 차선 인식 결과<br>
-https://youtu.be/OS__DeUEmHs<br><br>
+[https://youtu.be/OS__DeUEmHs](https://youtu.be/aPC0S0Ph8_I)<br><br>
 안드로이드_테스트<br>
 https://youtu.be/lWsJT9awwlY<br><br>
 python 차선인식 과정<br>
