@@ -76,4 +76,6 @@ weighted_img: 입력 이미지와 원본 이미지를 합친다.
 안드로이드_테스트<br>
 https://youtu.be/lWsJT9awwlY<br><br>
 python 차선인식 과정<br>
-https://github.com/rltpwns95/carline.git
+https://github.com/rltpwns95/carline.git<br>
+공모전 자료들입니다.
+https://drive.google.com/drive/folders/15uxKUJKbvsZfGwvdp-i79P7jU4AGwvsg?usp=share_link
